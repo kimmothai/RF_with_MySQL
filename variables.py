@@ -1,0 +1,5 @@
+DBHost = "localhost"
+DBName =  "rf_db"
+DBPass =  ""
+DBPort =  "3306"
+DBUser =  ""
