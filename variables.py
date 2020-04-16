@@ -1,5 +1,5 @@
 DBHost = "localhost"
 DBName =  "rf_db"
-DBPass =  ""
+DBPass =  "placeholder"
 DBPort =  "3306"
-DBUser =  ""
+DBUser =  "placeholder"
